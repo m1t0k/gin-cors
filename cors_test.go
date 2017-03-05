@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"gopkg.in/gin-gonic/gin.v1"
 )
 
 var sHeaders = "TestOne, TestTwo, TestThree, TestFour, TestFive"

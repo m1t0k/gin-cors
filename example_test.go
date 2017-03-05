@@ -3,7 +3,7 @@ package cors_test
 import (
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"gopkg.in/gin-gonic/gin.v1"
 	"github.com/itsjamie/gin-cors"
 )
 
